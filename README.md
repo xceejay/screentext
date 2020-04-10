@@ -2,8 +2,9 @@
 Simple shell script that extracts text on screen and converts it to a readable pdf
 
 ## Dependencies
-tesseract-ocr 
-zenity
+1. tesseract-ocr 
+2. zenity
+3. ghostscript
 
 ## Installation 
 
