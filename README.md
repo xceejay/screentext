@@ -1,5 +1,5 @@
 # screentext
-Simple shell script to extract text on your screen and convert it to a readable pdf
+Simple shell script that extracts text on screen and converts it to a readable pdf
 
 ## Dependencies
 tesseract-ocr 
