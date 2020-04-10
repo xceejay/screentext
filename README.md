@@ -14,10 +14,11 @@ cd screentext && chmod + x screentext
 sudo cp screentext /usr/local/bin
 ```
 ## Local 
-``git clone https://github.com/xceejay/screentext/``
-``cd screentext``
-``chmod + x``
-
+```bash
+git clone https://github.com/xceejay/screentext/
+cd screentext``
+chmod + x
+```
 ## Usage
 
 ### If this was installed System Wide 
