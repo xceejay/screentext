@@ -31,7 +31,7 @@ chmod + x
 - ``cd`` into the screentext directory
 - ``sh screentext``
 
-### Recomendation
-Currently Window Should be in full screen for this to work properly
+### Recommendation
+Current window should be in fullscreen for this to work properly
 
 Enjoy😼
