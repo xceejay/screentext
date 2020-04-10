@@ -32,6 +32,6 @@ chmod + x
 - ``sh screentext``
 
 ### Recommendation
-Current window should be in fullscreen for this to work properly
+** Current window should be in fullscreen for this to work properly **
 
 Enjoy😼
