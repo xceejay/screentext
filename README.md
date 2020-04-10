@@ -16,7 +16,7 @@ sudo cp screentext /usr/local/bin
 ## Local 
 ```bash
 git clone https://github.com/xceejay/screentext/
-cd screentext``
+cd screentext
 chmod + x
 ```
 ## Usage
