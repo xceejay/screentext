@@ -1,2 +1,32 @@
 # screentext
-Extract text on your screen and convert it to readable pdf
+Simple shell script to extract text on your screen and convert it to a readable pdf
+
+## Dependencies
+tesseract-ocr 
+zenity
+
+## Installation 
+
+## System Wide
+```bash
+git clone https://github.com/xceejay/screentext/
+cd screentext && chmod + x screentext
+sudo cp screentext /usr/local/bin
+```
+## Local 
+``git clone https://github.com/xceejay/screentext/``
+``cd screentext``
+``chmod + x``
+
+## Usage
+
+### If this was installed System Wide 
+- Open Terminal
+- Type ``screentext`` and press Enter
+
+### If this was cloned locally 
+- Open Terminal
+- ``cd`` into the screentext directory
+- ``sh screentext``
+
+Enjoy😼
